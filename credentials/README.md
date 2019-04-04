@@ -1,10 +1,8 @@
-```
-{
-  "apikey":"simIz8tzXkf44d/YUtgTCvu9Sel1"
-}
-```
+
 
 ## Watson natural language understanding
+File: `watson-nlu.json`
+```
 {
   "apikey": "VUMgHEZ4TyT0CkV416FCefEylxuL3CaVke5Bh8YWHXxc",
   "iam_apikey_description": "Auto generated apikey during resource-key operation for Instance - crn:v1:bluemix:public:natural-language-understanding:us-south:a/ab906e376bf4491aa843aec591e9dc6e:46a7cc17-cca7-49b4-8195-a6e0f5d5360e::",
@@ -13,3 +11,4 @@
   "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/ab906e376bf4491aa843aec591e9dc6e::serviceid:ServiceId-4023c48f-f357-4c80-9922-09f4ff6068e5",
   "url": "https://gateway.watsonplatform.net/natural-language-understanding/api"
 }
+```    
